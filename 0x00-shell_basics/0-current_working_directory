@@ -1,2 +1,2 @@
-#!/bin/bash which ls 
-
+#!/bin/bash 
+pwd
