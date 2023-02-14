@@ -1,2 +1,3 @@
 #!/bin/bash
 PATGH=$PATH:/action
+PATH=$PATH:/action
