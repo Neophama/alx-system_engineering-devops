@@ -1,2 +1,3 @@
 tail -1
 tail -l iacta
+tail  -n 1 < iacta
